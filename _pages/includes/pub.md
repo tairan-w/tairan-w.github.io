@@ -13,7 +13,7 @@
 
 ## 🧑‍🎨 Machine learning prediction
 - ``Nat. Catal. Under review`` Interpretable Machine Learning for Derivable Equation Discovery of Metal-Support Interaction in Nanocatalysts, **Tairan Wang**, Sulei Hu, et al.
-- ``Fuel Under review`` Transfer Learning and Graph Neural Network Approach to Multitarget Temperature-Dependent Thermochemistry Prediction, **Tairan Wang***, Sirio Brunialti***, et al.
+- ``Fuel Under review`` Transfer Learning and Graph Neural Network Approach to Multitarget Temperature-Dependent Thermochemistry Prediction, **Tairan Wang**\*, Sirio Brunialti*, et al.
 - ``J. Am. Chem. Soc. 2022`` Quantitatively Determining Surface–Adsorbate Properties from Vibrational Spectroscopy with Interpretable Machine Learning, Xijun Wang, Shuang Jiang, Wei Hu, **Tairan Wang**, et al.
 - ``Chin. J. of Chem. Phys. 2020`` Machine-learning Adsorption on Binary Alloy Surfaces for Catalyst Screening, **Tairan Wang**, et al.
 - ``J. Uni. Sci. Tech. Chin. 2020`` AI-based Descriptor for Predicting Alloy Formation Energys, Jiancong Li*, **Tairan Wang**\*, et al.
