@@ -7,13 +7,10 @@ main:
     url: "/#-publications"
 
   - title: "Awards"
-    url: "/#-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Invited Talks"
     url: "/#-invited-talks-and-tutorials"
 
-  - title: "Internships"
-    url: "/#-internships"
-
-  - title: "Services"
-    url: "/#-services"
+  - title: "Affiliation"
+    url: "/#-professional-affiliations"

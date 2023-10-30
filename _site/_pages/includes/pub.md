@@ -1,51 +1,32 @@
 
 # 📝 Publications 
-## 📚 Summarization
+## 📚 LLM for chemistry  
 
 
-- ``ACL 2023`` [Improving the Robustness of Summarization Systems with Dual Augmentation](https://arxiv.org/pdf/2306.01090.pdf), **Xiuying Chen**, Guodong Long, Chongyang Tao, Mingzhe Li, Xin Gao, Chengqi Zhang, Xiangliang Zhang. [Code](https://github.com/iriscxy/robustness)
-
-- ``SIGIR 2023`` [A Topic-aware Summarization Framework with Different Modal Side Information](https://arxiv.org/pdf/2305.11503.pdf), **Xiuying Chen**, Mingzhe Li, Shen Gao, Xin Cheng, Qiang Yang, Qishen Zhang, Xin Gao, Xiangliang Zhang.
-
-- ``EMNLP 2022`` [Scientific Paper Extractive Summarization Enhanced by Citation Graphs](https://arxiv.org/pdf/2212.04214.pdf), **Xiuying Chen**, Mingzhe Li, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang.
-
-- ``NeurIPS 2022`` [Towards Improving Faithfulness in Abstractive Summarization](https://arxiv.org/pdf/2210.01877.pdf), **Xiuying Chen**, Mingzhe Li, Xin Gao, Xiangliang Zhang. [Code](https://github.com/iriscxy/FES)
-
-- ``TOIS 2022`` [Follow the Timeline! Generating Abstractive and Extractive Timeline Summary in Chronological Order](https://dl.acm.org/doi/pdf/10.1145/3517221), **Xiuying Chen**, Mingzhe Li, Shen Gao, Zhangming Chan, Dongyan Zhao, Xin Gao, Xiangliang Zhang, Rui Yan. [Code](https://github.com/iriscxy/Unified-Timeline-Summarizer)
-
-- ``IJCAI 2019`` [Learning towards Abstractive Timeline Summarization](https://www.ijcai.org/proceedings/2019/0686.pdf), **Xiuying Chen**, Zhangming Chan, Shen Gao, Meng-Hsuan Yu, Dongyan Zhao, Rui Yan. [Code](https://github.com/iriscxy/Unified-Timeline-Summarizer)
-
-- ``EMNLP 2018`` [Iterative Document Representation Learning Towards Summarization with Polishing](https://arxiv.org/pdf/1809.10324.pdf), **Xiuying Chen**, Shen Gao, Chongyang Tao, Yan Song, Dongyan Zhao, Rui Yan. [Code](https://github.com/iriscxy/Iterative-Document-Representation-Learning-Towards-Summarization-with-Polishing)
+- ``submitted to AAAI 2024`` ScholarChemQA: Unveiling the Power of Language Models in Chemical Research Question Answering, **Xiuying Chen***, **Tairan Wang***, Jurgen Schmidhuber, et al.
+- ``To be submitted`` Catalysis-Specific Large Language Model (ChemLLM): Information Retrieval for Catalyst Evaluation, Catalyst Recommendation and the Design of High Sintering-Resistance Nanocatalyst, **Tairan Wang**, Weixue Li.
+- ``Ongoing`` Data Extraction and Multitask Machine Learning in Electrolysis Catalyst Design, **Tairan Wang**, Mani Sarathy.
+- ``Ongoing`` Electrolyte Design for Sodium Batteries Using Text Mining and Deep Learning, **Tairan Wang**, Yunpei Zhu.
+- ``Ongoing`` Mapping the Chemical Reaction Space with Natural Language Processing and Reaction Graph for Combustion Modeling, **Tairan Wang**, Mani Sarathy.
 
 
+## 🧑‍🎨 Machine learning prediction
+- ``Nat. Catal. Under review`` Interpretable Machine Learning for Derivable Equation Discovery of Metal-Support Interaction in Nanocatalysts, **Tairan Wang**, Sulei Hu, et al.
+- ``Fuel Under review`` Transfer Learning and Graph Neural Network Approach to Multitarget Temperature-Dependent Thermochemistry Prediction, **Tairan Wang***, Sirio Brunialti***, et al.
+- ``J. Am. Chem. Soc. 2022`` Quantitatively Determining Surface–Adsorbate Properties from Vibrational Spectroscopy with Interpretable Machine Learning, Xijun Wang, Shuang Jiang, Wei Hu, **Tairan Wang**, et al.
+- ``Chin. J. of Chem. Phys. 2020`` Machine-learning Adsorption on Binary Alloy Surfaces for Catalyst Screening, **Tairan Wang**, et al.
+- ``J. Uni. Sci. Tech. Chin. 2020`` AI-based Descriptor for Predicting Alloy Formation Energys, Jiancong Li*, **Tairan Wang***, et al.
 
-## 🧑‍🎨 Text Generation Application
+## 🎙 Computational reaction mechanism 
 
-- ``WSDM 2023`` [EZInterviewer: To Improve Job Interview Performance with Mock Interview Generator](https://arxiv.org/pdf/2301.00972.pdf), Mingzhe Li, **Xiuying Chen**, Weiheng Liao, Yang Song, Tao Zhang, Dongyan Zhao, Rui Yan.
-
-- ``SIGIR 2022`` [Target-aware Abstractive Related Work Generation with Contrastive Learning](https://arxiv.org/pdf/2205.13339.pdf), **Xiuying Chen**, Hind Alamro, Mingzhe Li, Shen Gao, Rui Yan, Xin Gao, Xiangliang Zhang. [Code](https://github.com/iriscxy/Target-aware-RWG)
-
-- ``ACL 2021`` [Capturing Relations between Scientific Papers: An Abstractive Model for Related Work Section Generation](https://aclanthology.org/2021.acl-long.473.pdf), **Xiuying Chen**, Hind Alamro, Mingzhe Li, Shen Gao, Xiangliang Zhang, Dongyan Zhao, Rui Yan. [Code](https://github.com/iriscxy/relatedworkgeneration)
-
-- ``AAAI 2020`` [The Style-Content Duality of Attractiveness: Learning to Write Eye-Catching Headlines via Disentanglement](https://ojs.aaai.org/index.php/AAAI/article/view/17565), Mingzhe Li, **Xiuying Chen**, Min Yang, Shen Gao, Dongyan Zhao, Rui Yan
-
-- ``EMNLP 2020`` [Selection and generation: Learning towards multi-product advertisement post generation](https://aclanthology.org/2020.emnlp-main.313.pdf), Zhangming Chan, Yuchi Zhang, **Xiuying Chen**, Shen Gao,
-Zhiqiang Zhang, Dongyan Zhao, Rui Yan.
-
-- ``EMNLP 2019`` [Stick to the facts: Learning towards a fidelity-oriented e-commerce product description generation](https://aclanthology.org/D19-1501.pdf), Zhangming Chan, **Xiuying Chen**, Yongliang Wang, Juntao Li, Zhiqiang Zhang, Kun Gai, Dongyan Zhao, Rui Yan.
+- ``Combus. Flame 2023`` Computational Thermochemistry of Oxygenated Polycyclic Aromatic Hydrocarbons and Relevant Radicals, **Tairan Wang**, Yalamanchi Kiran, et al.
+- ``Proc. Combust. Inst. To be submitted`` Hydrogen Abstraction Kinetics in Low-Temperature Combustion: A Theoretical Study of 2-methylhexane + OH and 2,4-dimethylpentane + OH Reactions, **Tairan Wang***, Myriam Belmekki*, et al.
+- ``J. Phys. Chem. A. To be submitted`` Multi-structural Torsional Variational Transition State Theory Analysis of Hydrogen Abstraction Kinetics between n-heptane and Hydroxide Radicals, Myriam Belmekki*, **Tairan Wang***, et al.
+- ``Appl. Energy Combust. Sci. 2022`` Large-Scale Thermochemistry Calculations for Combustion Models, Yalamanchi Kiran, Yang Li, **Tairan Wang**, et al.
+- ``Combus. Flame 2022`` Accurate Thermochemistry Prediction of Extensive Polycyclic Aromatic Hydrocarbons (PAHs) and Relevant Radicals, Yang Li*, **Tairan Wang***, et al.
 
 
-## 🎙 Dialog System 
-
-- ``AAAI 2023`` [Learning towards Selective Data Augmentation for Dialogue Generation](https://arxiv.org/pdf/2303.09719.pdf), **Xiuying Chen**, Mingzhe Li, Jiayi Zhang, Xiaoqiang Xia, Chen Wei, Jianwei Cui, Xin Gao1, Xiangliang Zhang, Rui Yan.
-
-- ``EMNLP 2021`` [Combining curriculum learning and knowledge distillation for dialogue generation](https://aclanthology.org/2021.findings-emnlp.111.pdf), Qingqing Zhu, **Xiuying Chen**, Pengfei Wu, JunFei Liu, Dongyan Zhao
-
-- ``AAAI 2021`` [Reasoning in Dialog: Improving Response Generation by Context Reading Comprehension](https://arxiv.org/pdf/2012.07410.pdf), **Xiuying Chen**, Zhi Cui, Jiayi Zhang, Chen Wei, Jianwei Cui, Bin Wang, Dongyan Zhao, and Rui Yan. [Data](https://github.com/iriscxy/Reasoning-in-Dialog)
-
-- ``EMNLP 2019`` [Modeling personalization in continuous space for response generation via augmented wasserstein autoencoders](https://aclanthology.org/D19-1201.pdf), Zhangming Chan, Juntao Li, Xiaopeng Yang, **Xiuying Chen**, Wenpeng Hu, Dongyan Zhao, Rui Yan
-
-## 📒 Survey
- - ``arxiv`` [Interactive Natural Language Processing](https://arxiv.org/pdf/2305.13246.pdf), Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, **Xiuying Chen**, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu
-
- - ``IJCAI 2020`` [From Standard Summarization to New Tasks and Beyond: Summarization with Manifold Information](https://arxiv.org/pdf/2005.04684.pdf), Shen Gao, **Xiuying Chen**, Zhaochun Ren, Dongyan Zhao, Rui Yan
+## 📒 Theoretical catalysis
+- ``Science To be submitted`` Structural Dynamics of Interface-Confined Ferrous Centers for Catalytic Oxidation, Yangsheng Li*, **Tairan Wang***, Chuwei Zhu, Weixue Li, Fan Yang, Xinhe Bao.
+- ``Appl. Catal. B 2023`` Insight into Oxygen Vacancies of PMoA-TiO2 Catalyst on Deep Oxidative Desulfurization of Fuel Oil and Molecular Characterization of Sulfur Compounds, Jiyuan Fan*, **Tairan Wang***, et al.
+- ``Sep. Purif. Technol. 2023`` Oxidative Desulfurization of Fuel Oil and Molecular Characterization of the Sulfone Compound Distribution in the Different Extractants, J Fan, HA Khan, **Tairan Wang**, et al.
