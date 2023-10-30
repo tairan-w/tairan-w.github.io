@@ -2,7 +2,6 @@
 # 📝 Publications 
 ## 📚 LLM for chemistry  
 
-按照你提供的格式，适配后的内容如下：
 
 - ``submitted to AAAI 2024`` ScholarChemQA: Unveiling the Power of Language Models in Chemical Research Question Answering, **Xiuying Chen***, **Tairan Wang***, Jurgen Schmidhuber, et al.
 - ``To be submitted`` Catalysis-Specific Large Language Model (ChemLLM): Information Retrieval for Catalyst Evaluation, Catalyst Recommendation and the Design of High Sintering-Resistance Nanocatalyst, **Tairan Wang**, Weixue Li.
