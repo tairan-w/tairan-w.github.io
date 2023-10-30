@@ -14,6 +14,43 @@ google_scholar_stats_use_cdn : true
 
 
 
+# Site Author
+author:
+  name             : "Tairan Wang"
+  avatar           : "images/android-chrome-512x512.png"
+  # bio              : "KAUST"
+  location         : "Saudi Arabia"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=9dwCQl4AAAAJ&hl=zh-CN"
+  email            : "tairan.wang@kaust.edu.sa"
+  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "tairan-w"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
 
 # Reading Files
 include:
