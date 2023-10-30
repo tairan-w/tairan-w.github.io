@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/_pages/includes/honers/</loc>
+</url>
+<url>
+<loc>/_pages/includes/intro/</loc>
+</url>
+<url>
+<loc>/_pages/includes/news/</loc>
+</url>
+<url>
+<loc>/_pages/includes/others/</loc>
+</url>
+<url>
+<loc>/_pages/includes/pub/</loc>
+</url>
+<url>
+<loc>/_pages/includes/pub_short/</loc>
+</url>
+<url>
+<loc>/docs/README-zh/</loc>
+</url>
+</urlset>
