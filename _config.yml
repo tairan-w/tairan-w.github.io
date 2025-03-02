@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tairan Wang"
-description              : "Ph.D. Student, KAUST "
+description              : "Ph.D. Candidate, KAUST "
 repository               : "shukuangxi/wtr.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ author:
   location         : "Saudi Arabia"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=9dwCQl4AAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=9dwCQl4AAAAJ&hl"
   email            : "tairan.wang@kaust.edu.sa"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
